@@ -1,0 +1,4 @@
+services:
+  logger:
+    image: logger
+      - 8181:8181
